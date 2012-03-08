@@ -1,4 +1,5 @@
-Had made this program as a solution for a programming contest called MobMe CodeJam 
+This program was made as a prize winning solution for a programming contest called MobMe CodeJam.It is implemented using regular Hashtable as well as with 
+the BloomFilter data structure.  
  
 Dependancies(using Hashtable)
 1. Dictionary used by spellchecker(dictionary.txt)
