@@ -1,3 +1,11 @@
+/*
+ * spellchecker12.java
+ *
+ * Author: Shyam Shankar <syamsankar91@gmail.com>
+ * Licensed under GPL Version 3
+ *
+ */
+
 import java.io.*;
 import java.util.*;
 
